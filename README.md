@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Phúc(phuc527) from VietNam, and I do content on Development. I really enjoy it.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuc527)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **phuc527/phuc527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
