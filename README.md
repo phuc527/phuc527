@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Phúc(phuc527) from VietNam, and I do content on Development. I really enjoy it.
+<!-- My name is Phúc(phuc527) from VietNam, and I do content on Development. I really enjoy it.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuc527)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phuc527)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **phuc527/phuc527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +17,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, my name is Phúc
+#### Development
+![Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+My name is Phúc(phuc527) from VietNam, and I do content on Development. I really enjoy it.
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/phuc527)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pizza-fe.vercel.app/)  
+
+
+
+
+
+
+
+
